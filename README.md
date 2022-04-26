@@ -20,8 +20,7 @@ QQ：1398196545
 6. 点击上方标题栏可以隐藏周次选项，点击“第*周”可以跳转到选择的周。
 7. 支持添加自定义课程，长按课程格子即可跳转到添加界面。
 8. 暂不支持单节课的修改，如果需要修改自定义课程请刷新课程表，这将删除所有自定义课表，请慎重添加
-![Screenshot_20220426_172333_xyz taouvw mysdutools](https://user-images.githubusercontent.com/55818290/165269074-188914ef-5774-421c-ab37-1298de61674f.jpg)
-![Screenshot_20220426_172337_xyz taouvw mysdutools](https://user-images.githubusercontent.com/55818290/165269107-5a1cdd26-4f02-404b-b009-ba1fec8dc053.jpg)
+[](./img/img(1).jpg)
 
 ###### 地图
 
